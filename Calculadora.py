@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 # Python programa para calculadora 
 import math
   
