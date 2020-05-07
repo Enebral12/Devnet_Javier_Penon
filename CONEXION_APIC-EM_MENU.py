@@ -1,4 +1,8 @@
 #! /usr/bin/env python3
+# AUTOR: FRANCISCO JAVIER PENON CAMARA 
+# CURSO: Becas Digitaliza: DevNet - Ene 20
+# Conexión con APIC-EM / MENU OPCIONES
+
 import requests
 import json
 import urllib3
