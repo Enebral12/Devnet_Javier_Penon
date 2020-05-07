@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# AUTOR: FRANCISCO JAVIER PENON CAMAR
+# AUTOR: FRANCISCO JAVIER PENON CAMARA
 # CURSO: Becas Digitaliza: Devnet- Ene 20
 # Script de conexión con CSR1000v (acceso local y por Sandbox)
 
